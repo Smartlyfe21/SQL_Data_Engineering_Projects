@@ -1,3 +1,4 @@
-SELECT 42 as answer;
-
-SELECT 'Hello, world!' as greeting;
+SELECT DISTINCT
+     job_title_short
+FROM
+    job_postings_fact;     
