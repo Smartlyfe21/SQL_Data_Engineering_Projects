@@ -197,22 +197,3 @@ ORDER BY median_salary DESC;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
