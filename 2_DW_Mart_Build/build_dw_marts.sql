@@ -15,3 +15,10 @@
 
 --step 4: Mart create skills demand mart
 .read 04_create_skills_mart.sql
+
+--step 5: Mart -Create priority mart
+.read 05_create_priority_mart.sql
+--step 6: Update priority_mart
+.read 06_update_priority_mart.sql
+
+
